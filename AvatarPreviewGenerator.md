@@ -1,7 +1,7 @@
 TODO:
 ============
-[ ] Save off image.
-[ ] Fix ResourceHandle sticking around on exit assert.
+- [ ] Save off image.
+- [ ] Fix ResourceHandle sticking around on exit assert.
 
 
 Notes:
